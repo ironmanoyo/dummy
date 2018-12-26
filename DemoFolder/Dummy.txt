@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hey Dummy
 =======
 Hey there mat :D
 >>>>>>> newbranch
+=======
+
+Hey there mat :D
+Hey Dummy
+
+>>>>>>> d31992489fccaeef3e5c0ad5b7f1994fd325c19a
